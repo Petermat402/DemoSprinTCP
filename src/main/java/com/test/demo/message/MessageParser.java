@@ -17,5 +17,6 @@ public class MessageParser {
 
     public byte[] parseOutbound(BaseMessage outgoingMessage) {
        //*WIP*
+        return new byte[Byte.parseByte("")];
     }
 }
